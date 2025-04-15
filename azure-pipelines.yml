@@ -8,7 +8,7 @@ trigger:
 
 pool:
   vmImage: ubuntu-latest
-  name: 'model agent'
+  name: 'Model Pool'
 
 steps:
 - task: Maven@3
